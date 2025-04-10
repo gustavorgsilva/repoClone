@@ -1,0 +1,7 @@
+#BlackList
+
+#Ignorando arquivos por nome e extensão 
+teste.txt
+
+#Ignorando arquivos por extensão
+*.js
